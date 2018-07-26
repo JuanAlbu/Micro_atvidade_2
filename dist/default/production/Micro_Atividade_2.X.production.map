@@ -1,0 +1,72 @@
+MPLINK 5.08, LINKER
+Linker Map File - Created Thu Jul 26 15:59:45 2018
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000002
+                   .org_2       code   0x000004    program   0x000126
+.config_2007_/HOME/JUAN/MPLABXPROJECTS/MICRO_       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000000      
+                            0x000004    0x000096      
+                            0x002007    0x002007      
+            149 out of 1158 program addresses used, program memory utilization is 12%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+              DECREMENTAR   0x000082    program     static /home/juan/MPLABXProjects/Micro_Atividade_2.X/Vazio.ASM
+             DECREMENTAR2   0x000080    program     static /home/juan/MPLABXProjects/Micro_Atividade_2.X/Vazio.ASM
+                    DELAY   0x00000c    program     static /home/juan/MPLABXProjects/Micro_Atividade_2.X/Vazio.ASM
+                  DISPLAY   0x000013    program     static /home/juan/MPLABXProjects/Micro_Atividade_2.X/Vazio.ASM
+                   INICIO   0x00006a    program     static /home/juan/MPLABXProjects/Micro_Atividade_2.X/Vazio.ASM
+                     MAIN   0x00007e    program     static /home/juan/MPLABXProjects/Micro_Atividade_2.X/Vazio.ASM
+                  SAI_INT   0x000007    program     static /home/juan/MPLABXProjects/Micro_Atividade_2.X/Vazio.ASM
+                 SETCINCO   0x00004c    program     static /home/juan/MPLABXProjects/Micro_Atividade_2.X/Vazio.ASM
+                  SETDOIS   0x00005b    program     static /home/juan/MPLABXProjects/Micro_Atividade_2.X/Vazio.ASM
+                  SETNOVE   0x000038    program     static /home/juan/MPLABXProjects/Micro_Atividade_2.X/Vazio.ASM
+                  SETOITO   0x00003d    program     static /home/juan/MPLABXProjects/Micro_Atividade_2.X/Vazio.ASM
+                SETQUATRO   0x000051    program     static /home/juan/MPLABXProjects/Micro_Atividade_2.X/Vazio.ASM
+                  SETSEIS   0x000047    program     static /home/juan/MPLABXProjects/Micro_Atividade_2.X/Vazio.ASM
+                  SETSETE   0x000042    program     static /home/juan/MPLABXProjects/Micro_Atividade_2.X/Vazio.ASM
+                  SETTRES   0x000056    program     static /home/juan/MPLABXProjects/Micro_Atividade_2.X/Vazio.ASM
+                    SETUM   0x000060    program     static /home/juan/MPLABXProjects/Micro_Atividade_2.X/Vazio.ASM
+                  SETZERO   0x000065    program     static /home/juan/MPLABXProjects/Micro_Atividade_2.X/Vazio.ASM
+                    VERDE   0x000093    program     static /home/juan/MPLABXProjects/Micro_Atividade_2.X/Vazio.ASM
+                 VERMELHO   0x000095    program     static /home/juan/MPLABXProjects/Micro_Atividade_2.X/Vazio.ASM
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                  SAI_INT   0x000007    program     static /home/juan/MPLABXProjects/Micro_Atividade_2.X/Vazio.ASM
+                    DELAY   0x00000c    program     static /home/juan/MPLABXProjects/Micro_Atividade_2.X/Vazio.ASM
+                  DISPLAY   0x000013    program     static /home/juan/MPLABXProjects/Micro_Atividade_2.X/Vazio.ASM
+                  SETNOVE   0x000038    program     static /home/juan/MPLABXProjects/Micro_Atividade_2.X/Vazio.ASM
+                  SETOITO   0x00003d    program     static /home/juan/MPLABXProjects/Micro_Atividade_2.X/Vazio.ASM
+                  SETSETE   0x000042    program     static /home/juan/MPLABXProjects/Micro_Atividade_2.X/Vazio.ASM
+                  SETSEIS   0x000047    program     static /home/juan/MPLABXProjects/Micro_Atividade_2.X/Vazio.ASM
+                 SETCINCO   0x00004c    program     static /home/juan/MPLABXProjects/Micro_Atividade_2.X/Vazio.ASM
+                SETQUATRO   0x000051    program     static /home/juan/MPLABXProjects/Micro_Atividade_2.X/Vazio.ASM
+                  SETTRES   0x000056    program     static /home/juan/MPLABXProjects/Micro_Atividade_2.X/Vazio.ASM
+                  SETDOIS   0x00005b    program     static /home/juan/MPLABXProjects/Micro_Atividade_2.X/Vazio.ASM
+                    SETUM   0x000060    program     static /home/juan/MPLABXProjects/Micro_Atividade_2.X/Vazio.ASM
+                  SETZERO   0x000065    program     static /home/juan/MPLABXProjects/Micro_Atividade_2.X/Vazio.ASM
+                   INICIO   0x00006a    program     static /home/juan/MPLABXProjects/Micro_Atividade_2.X/Vazio.ASM
+                     MAIN   0x00007e    program     static /home/juan/MPLABXProjects/Micro_Atividade_2.X/Vazio.ASM
+             DECREMENTAR2   0x000080    program     static /home/juan/MPLABXProjects/Micro_Atividade_2.X/Vazio.ASM
+              DECREMENTAR   0x000082    program     static /home/juan/MPLABXProjects/Micro_Atividade_2.X/Vazio.ASM
+                    VERDE   0x000093    program     static /home/juan/MPLABXProjects/Micro_Atividade_2.X/Vazio.ASM
+                 VERMELHO   0x000095    program     static /home/juan/MPLABXProjects/Micro_Atividade_2.X/Vazio.ASM
+
+
